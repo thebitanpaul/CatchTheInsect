@@ -2,6 +2,8 @@
 
 A fun and addictive browser-based insect-catching game built with HTML, CSS, and JavaScript. Test your reflexes by catching as many insects as possible before they overwhelm the screen.
 
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784638643/uj1okywso0xxhxkmzx8g.webp"/>
+
 <p align="center">
   <a href="https://thebitanpaul.github.io/Catch-The-Insect-Game">
     <img src="https://img.shields.io/badge/Play%20Now-Live%20Demo-success?style=for-the-badge" alt="Live Demo">
@@ -44,8 +46,14 @@ CatchTheInsect is a lightweight web game where players must catch insects that a
 
 1. Start the game.
 2. Choose your insect.
+
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784638651/f9rsi2qbm9czlyzq5cz5.webp"/>
+   
 3. Catch insects by clicking on them.
 4. Each successful catch increases your score.
+
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784638654/eeslu2fhibioyj8wg9a7.webp"/>
+   
 5. More insects spawn as the game progresses.
 6. Try to achieve the highest possible score.
 
