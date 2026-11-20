@@ -21,7 +21,7 @@
 [![Open on phiUture](https://img.shields.io/badge/Open_on-phiUture-000000?style=for-the-badge)](https://phiuture.com/tech/CatchTheInsect)
 
 ![status Live](https://img.shields.io/badge/status-Live-2EA043?style=flat-square)
-[![license Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-0A84FF?style=flat-square)](LICENSE)
+[![license Proprietary](https://img.shields.io/badge/license-Proprietary-555555?style=flat-square)](LICENSE)
 ![launched 2024](https://img.shields.io/badge/launched-2024-7C3AED?style=flat-square)
 
 <br/>
@@ -135,38 +135,24 @@ https://thebitanpaul.github.io/CatchTheInsect
 
 ---
 
-## Contributing
+## Feedback
 
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push to your branch
-
-```bash
-git push origin feature/new-feature
-```
-
-5. Open a Pull Request
+CatchTheInsect is proprietary software, so pull requests aren't accepted. Found a bug or have an idea?
+[Open an issue](https://github.com/thebitanpaul/CatchTheInsect/issues) or write to
+[thephiuture@gmail.com](mailto:thephiuture@gmail.com).
 
 ---
 
 ## License
 
-Licensed under the **Apache License 2.0** — see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+**Proprietary — Copyright © 2024 Bitan Paul, phiUture Tech. All Rights Reserved.**
 
-Copyright © 2024 Bitan Paul, phiUture. All Rights Reserved.
+CatchTheInsect is proprietary software owned by phiUture Tech. Its source code is published here to be
+read, not reused: no part of it may be copied, modified, distributed or used to create derivative
+work without prior written permission. The official web version at [thebitanpaul.github.io/CatchTheInsect](https://thebitanpaul.github.io/CatchTheInsect) may be played as offered.
+
+See [`LICENSE`](LICENSE) for the full terms, and write to
+[thephiuture@gmail.com](mailto:thephiuture@gmail.com) for permissions.
 
 ---
 
@@ -216,6 +202,6 @@ Technology Follows.* — makes original music and film.
 
 **phiUture Tech** · *Thoughtfully Engineered. Crafted for You.*
 
-<sub>© 2024 phiUture · Apache License 2.0</sub>
+<sub>© 2024 phiUture Tech · All Rights Reserved</sub>
 
 </div>
